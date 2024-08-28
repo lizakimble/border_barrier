@@ -12,7 +12,7 @@ There is only barriers of political importance, not the history of the site (for
 * towards – the country against which the fence was built
 * full – names of both countries in one cell
 * reasons – причины постройки
-* length – the length of the barrier in kilometers
+* length – the length of the barrier in kilometers (exting lenght, not planned for unfinished barriers)
 
 
 
